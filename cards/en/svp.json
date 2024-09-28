@@ -4377,6 +4377,9 @@
     "number": "72",
     "artist": "5ban Graphics",
     "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      984
+    ],
     "legalities": {
       "unlimited": "Legal",
       "standard": "Legal",
@@ -4438,6 +4441,9 @@
     "number": "73",
     "artist": "5ban Graphics",
     "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      990
+    ],
     "legalities": {
       "unlimited": "Legal",
       "standard": "Legal",
@@ -5229,7 +5235,7 @@
   },
   {
     "id": "svp-87",
-    "name": "Miraidon ex",
+    "name": "Sprigatito ex",
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",
@@ -6371,6 +6377,7 @@
     ],
     "convertedRetreatCost": 2,
     "number": "105",
+    "artist": "PLANETA Tsuji",
     "rarity": "Promo",
     "nationalPokedexNumbers": [
       936
@@ -6428,6 +6435,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "106",
+    "artist": "takuyoa",
     "rarity": "Promo",
     "nationalPokedexNumbers": [
       25
@@ -6489,6 +6497,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "107",
+    "artist": "Orca",
     "rarity": "Promo",
     "nationalPokedexNumbers": [
       179
@@ -6552,6 +6561,7 @@
     ],
     "convertedRetreatCost": 2,
     "number": "108",
+    "artist": "Akira Komayama",
     "rarity": "Promo",
     "nationalPokedexNumbers": [
       180
@@ -6603,6 +6613,7 @@
     ],
     "convertedRetreatCost": 2,
     "number": "109",
+    "artist": "GIDORA",
     "rarity": "Promo",
     "nationalPokedexNumbers": [
       181
@@ -6668,6 +6679,7 @@
     ],
     "convertedRetreatCost": 2,
     "number": "110",
+    "artist": "5ban Graphics",
     "rarity": "Promo",
     "nationalPokedexNumbers": [
       491
@@ -6719,6 +6731,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "111",
+    "artist": "matazo",
     "rarity": "Promo",
     "nationalPokedexNumbers": [
       624
@@ -6768,6 +6781,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "112",
+    "artist": "AKIRA EGAWA",
     "rarity": "Promo",
     "nationalPokedexNumbers": [
       625
@@ -6828,6 +6842,7 @@
     ],
     "convertedRetreatCost": 2,
     "number": "113",
+    "artist": "nagimiso",
     "rarity": "Promo",
     "nationalPokedexNumbers": [
       983
@@ -7389,6 +7404,9 @@
     "number": "123",
     "artist": "kodama",
     "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      1017
+    ],
     "flavorText": "This mischief-loving Pokémon is full of curiosity. It battles by drawing out the type-based energy contained within its masks.",
     "legalities": {
       "unlimited": "Legal",
@@ -7535,6 +7553,7 @@
     ],
     "convertedRetreatCost": 2,
     "number": "126",
+    "artist": "PLANETA Mochizuki",
     "rarity": "Promo",
     "nationalPokedexNumbers": [
       964
@@ -7599,6 +7618,9 @@
     "number": "127",
     "artist": "takuyoa",
     "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      1009
+    ],
     "legalities": {
       "unlimited": "Legal",
       "standard": "Legal",
@@ -7659,6 +7681,9 @@
     "number": "128",
     "artist": "5ban Graphics",
     "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      1010
+    ],
     "legalities": {
       "unlimited": "Legal",
       "standard": "Legal",
@@ -7713,6 +7738,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "148",
+    "artist": "hncl",
     "rarity": "Promo",
     "nationalPokedexNumbers": [
       1008
