@@ -1,0 +1,724 @@
+[
+  {
+    "id": "mcd24-1",
+    "name": "Charizard",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 2"],
+    "hp": "170",
+    "types": ["Fire"],
+    "evolvesFrom": "Charmeleon",
+    "abilities": [
+      {
+        "name": "Battle Sense",
+        "text": "Once during your turn, you may look at the top 3 cards of your deck and put 1 of them into your hand. Discard the other cards.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Royal Blaze",
+        "cost": ["Fire", "Fire"],
+        "convertedEnergyCost": 2,
+        "damage": "100+",
+        "text": "This attack does 50 more damage for each Leon card in your discard pile."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": ["Colorless", "Colorless", "Colorless"],
+    "convertedRetreatCost": 3,
+    "number": "1",
+    "artist": "Ryuta Fuse",
+    "rarity": "Rare",
+    "flavorText": "It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.",
+    "nationalPokedexNumbers": [6],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/mcd24-1/1.png",
+      "large": "https://images.pokemontcg.io/mcd24-1/1_hires.png"
+    }
+  },
+  {
+    "id": "mcd24-2",
+    "name": "Pikachu",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "hp": "60",
+    "types": ["Lightning"],
+    "evolvesTo": ["Raichu"],
+    "attacks": [
+      {
+        "name": "Charge",
+        "cost": ["Lightning"],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Search your deck for a Basic Lightning Energy card and attach it to this Pokémon. Then, shuffle your deck."
+      },
+      {
+        "name": "Pika Punch",
+        "cost": ["Lightning", "Lightning", "Colorless"],
+        "convertedEnergyCost": 3,
+        "damage": "50",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": ["Colorless"],
+    "convertedRetreatCost": 1,
+    "number": "2",
+    "artist": "Naoyo Kimura",
+    "rarity": "Common",
+    "flavorText": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
+    "nationalPokedexNumbers": [25],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/mcd24/2.png",
+      "large": "https://images.pokemontcg.io/mcd24/2_hires.png"
+    }
+  },
+  {
+    "id": "mcd24-3",
+    "name": "Miraidon",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "hp": "120",
+    "types": ["Lightning"],
+    "attacks": [
+      {
+        "cost": ["Colorless", "Colorless"],
+        "name": "Sharp Fang",
+        "damage": "30",
+        "text": "",
+        "convertedEnergyCost": 2
+      },
+      {
+        "cost": ["Lightning", "Lightning", "Colorless"],
+        "name": "Lightning Laser",
+        "damage": "90",
+        "text": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": ["Colorless"],
+    "convertedRetreatCost": 1,
+    "number": "3",
+    "artist": "Kouki Saitou",
+    "rarity": "Rare",
+    "nationalPokedexNumbers": [1008],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/mcd24/3.png",
+      "large": "https://images.pokemontcg.io/mcd24/3_hires.png"
+    },
+    "flavorText": "Much remains unknown about this creature. It resembles Cyclizar, but it is far more ruthless and powerful."
+  },
+  {
+    "id": "mcd24-4",
+    "name": "Jigglypuff",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "hp": "60",
+    "types": ["Psychic"],
+    "evolvesTo": ["Wigglytuff"],
+    "attacks": [
+      {
+        "name": "Pound",
+        "cost": ["Psychic"],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": ""
+      },
+      {
+        "name": "Let's All Rollout",
+        "cost": ["Colorless", "Colorless"],
+        "convertedEnergyCost": 2,
+        "damage": "20×",
+        "text": "This attack does 20 damage for each of your Benched Pokémon that has the Let's All Rollout attack."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": ["Colorless"],
+    "convertedRetreatCost": 1,
+    "number": "4",
+    "artist": "Saya Tsuruta",
+    "rarity": "Common",
+    "flavorText": "The songs they sing are totally different depending on the region they live in. Some even sound like they're shouting!",
+    "nationalPokedexNumbers": [39],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/mcd24/4.png",
+      "large": "https://images.pokemontcg.io/mcd24/4_hires.png"
+    }
+  },
+  {
+    "id": "mcd24-5",
+    "name": "Hatenna",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "hp": "60",
+    "types": ["Psychic"],
+    "evolvesTo": ["Hattrem"],
+    "attacks": [
+      {
+        "name": "Stampede",
+        "cost": ["Psychic"],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Magical Shot",
+        "cost": ["Psychic", "Colorless"],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": ["Colorless"],
+    "convertedRetreatCost": 1,
+    "number": "5",
+    "artist": "Akira Komayama",
+    "rarity": "Common",
+    "flavorText": "Via the protrusion on its head, it senses other creatures' emotions. If you don't have a calm disposition, it will never warm up to you.",
+    "nationalPokedexNumbers": [856],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/mcd24/5.png",
+      "large": "https://images.pokemontcg.io/mcd24/5_hires.png"
+    }
+  },
+  {
+    "id": "mcd24-6",
+    "name": "Dragapult",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 2"],
+    "hp": "150",
+    "types": ["Psychic"],
+    "evolvesFrom": "Drakloak",
+    "attacks": [
+      {
+        "name": "Dragon Launcher",
+        "cost": ["Psychic"],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Discard a number of your Benched Dreepy up to the number of your opponent's Pokémon in play. Then, for each Dreepy you discarded in this way, choose 1 of your opponent's Pokémon and do 100 damage to it. You can't choose the same Pokémon more than once. This damage isn't affected by Weakness or Resistance."
+      },
+      {
+        "name": "Spooky Shot",
+        "cost": ["Psychic", "Colorless"],
+        "convertedEnergyCost": 2,
+        "damage": "120",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": ["Colorless"],
+    "convertedRetreatCost": 1,
+    "number": "6",
+    "artist": "Teeziro",
+    "rarity": "Rare Holo",
+    "flavorText": "When it isn't battling, it keeps Dreepy in the holes on its horns. Once a fight starts, it launches the Dreepy like supersonic missiles.",
+    "nationalPokedexNumbers": [887],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/mcd24/6.png",
+      "large": "https://images.pokemontcg.io/mcd24/6_hires.png"
+    }
+  },
+  {
+    "id": "mcd24-7",
+    "name": "Quagsire",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "hp": "120",
+    "types": ["Fighting"],
+    "evolvesFrom": "Wooper",
+    "attacks": [
+      {
+        "name": "Beat",
+        "cost": ["Colorless", "Colorless"],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": ""
+      },
+      {
+        "name": "Fickle Impact",
+        "cost": ["Fighting", "Colorless", "Colorless"],
+        "convertedEnergyCost": 3,
+        "damage": "180",
+        "text": "If you have exactly 2, 4, or 6 Prize cards remaining, this attack does nothing."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": ["Colorless", "Colorless"],
+    "convertedRetreatCost": 2,
+    "number": "7",
+    "artist": "otumami",
+    "rarity": "Rare",
+    "flavorText": "It has an easygoing nature. It doesn't care if it bumps its head on boats and boulders while swimming.",
+    "nationalPokedexNumbers": [195],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/mcd24/7.png",
+      "large": "https://images.pokemontcg.io/mcd24/7_hires.png"
+    }
+  },
+  {
+    "id": "mcd24-8",
+    "name": "Koraidon",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "hp": "130",
+    "types": ["Fighting"],
+    "attacks": [
+      {
+        "cost": ["Colorless", "Colorless", "Colorless"],
+        "name": "Claw Slash",
+        "damage": "70",
+        "text": "",
+        "convertedEnergyCost": 3
+      },
+      {
+        "cost": ["Fighting", "Fighting", "Fighting", "Colorless"],
+        "name": "Rampaging Fang",
+        "damage": "190",
+        "text": "Discard 3 Energy from this Pokémon.",
+        "convertedEnergyCost": 4
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": ["Colorless", "Colorless"],
+    "convertedRetreatCost": 2,
+    "number": "8",
+    "artist": "Kouki Saitou",
+    "rarity": "Rare",
+    "nationalPokedexNumbers": [1007],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/mcd24/8.png",
+      "large": "https://images.pokemontcg.io/mcd24/8_hires.png"
+    },
+    "flavorText": "This seems to be the Winged King mentioned in an old expedition journal. It was said to have split the land with its bare fists."
+  },
+  {
+    "id": "mcd24-9",
+    "name": "Umbreon",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "hp": "110",
+    "types": ["Darkness"],
+    "evolvesFrom": "Eevee",
+    "attacks": [
+      {
+        "name": "Blindside",
+        "cost": ["Darkness"],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "This attack does 60 damage to 1 of your opponent's Pokémon that has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "Moon Mirage",
+        "cost": ["Darkness", "Colorless", "Colorless"],
+        "convertedEnergyCost": 3,
+        "damage": "80",
+        "text": "Your opponent's Active Pokémon is now Confused."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": ["Colorless"],
+    "convertedRetreatCost": 1,
+    "number": "9",
+    "artist": "Souichirou Gunjima",
+    "rarity": "Promo",
+    "flavorText": "On the night of a full moon, or when it gets excited, the ring patterns on its body glow yellow.",
+    "nationalPokedexNumbers": [197],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/mcd24/9.png",
+      "large": "https://images.pokemontcg.io/mcd24/9_hires.png"
+    }
+  },
+  {
+    "id": "mcd24-10",
+    "name": "Hydreigon",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 2"],
+    "hp": "180",
+    "types": ["Darkness"],
+    "evolvesFrom": "Zweilous",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Tri Howl",
+        "text": "Once during your turn, you may look at the top 3 cards of your deck and attach any number of Energy cards you find there to your Pokémon in any way you like. Discard the other cards."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": ["Darkness", "Darkness", "Colorless"],
+        "name": "Dark Cutter",
+        "damage": "160",
+        "text": "",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": ["Colorless", "Colorless", "Colorless"],
+    "convertedRetreatCost": 3,
+    "number": "10",
+    "artist": "Teeziro",
+    "rarity": "Rare",
+    "nationalPokedexNumbers": [635],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/mcd24/10.png",
+      "large": "https://images.pokemontcg.io/mcd24/10_hires.png"
+    },
+    "flavorText": "Only the central head has a brain. It is very intelligent, but it thinks only of destruction."
+  },
+  {
+    "id": "mcd24-11",
+    "name": "Roaring Moon",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "Ancient"],
+    "hp": "140",
+    "types": ["Darkness"],
+    "attacks": [
+      {
+        "name": "Vengeance Fletching",
+        "cost": ["Darkness", "Darkness"],
+        "convertedEnergyCost": 2,
+        "damage": "70+",
+        "text": "This attack does 10 more damage for each Ancient card in your discard pile."
+      },
+      {
+        "name": "Speed Wing",
+        "cost": ["Darkness", "Colorless", "Colorless", "Colorless"],
+        "convertedEnergyCost": 4,
+        "damage": "120",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": ["Colorless", "Colorless"],
+    "convertedRetreatCost": 2,
+    "number": "11",
+    "artist": "hncl",
+    "rarity": "Rare",
+    "flavorText": "It is possible that this is the creature listed as Roaring Moon in an expedition journal that still holds many mysteries.",
+    "nationalPokedexNumbers": [1005],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/mcd24/11.png",
+      "large": "https://images.pokemontcg.io/mcd24/11_hires.png"
+    }
+  },
+  {
+    "id": "mcd24-12",
+    "name": "Dragonite",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 2"],
+    "hp": "180",
+    "types": ["Dragon"],
+    "evolvesFrom": "Dragonair",
+    "abilities": [
+      {
+        "name": "Jet Cruise",
+        "text": "Your Pokémon in play have no Retreat Cost.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Dragon Pulse",
+        "cost": ["Water", "Lightning"],
+        "convertedEnergyCost": 2,
+        "damage": "180",
+        "text": "Discard the top 2 cards of your deck."
+      }
+    ],
+    "retreatCost": ["Colorless", "Colorless", "Colorless"],
+    "convertedRetreatCost": 3,
+    "number": "12",
+    "artist": "Sanosuke Sakuma",
+    "rarity": "Rare",
+    "flavorText": "It is said that somewhere in the ocean lies an island where these gather. Only they live there.",
+    "nationalPokedexNumbers": [12],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/mcd24/12.png",
+      "large": "https://images.pokemontcg.io/mcd24/12_hires.png"
+    }
+  },
+  {
+    "id": "mcd24-13",
+    "name": "Eevee",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "hp": "50",
+    "types": ["Colorless"],
+    "evolvesTo": [
+      "Vaporeon",
+      "Jolteon",
+      "Flareon",
+      "Sylveon",
+      "Espeon",
+      "Umbreon",
+      "Leafeon",
+      "Glaceon"
+    ],
+    "attacks": [
+      {
+        "name": "Continuous Steps",
+        "cost": ["Colorless"],
+        "convertedEnergyCost": 1,
+        "damage": "30×",
+        "text": "Flip a coin until you get tails. This attack does 30 damage for each heads."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": ["Colorless"],
+    "convertedRetreatCost": 1,
+    "number": "13",
+    "artist": "0313",
+    "rarity": "Common",
+    "flavorText": "Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.",
+    "nationalPokedexNumbers": [133],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/mcd24/13.png",
+      "large": "https://images.pokemontcg.io/mcd24/13_hires.png"
+    }
+  },
+  {
+    "id": "mcd24-14",
+    "name": "Rayquaza",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "hp": "130",
+    "types": ["Colorless"],
+    "attacks": [
+      {
+        "name": "Jaw Lock",
+        "cost": ["Colorless", "Colorless"],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+      },
+      {
+        "name": "Power Blast",
+        "cost": ["Colorless", "Colorless", "Colorless"],
+        "convertedEnergyCost": 3,
+        "damage": "120",
+        "text": "Discard an Energy from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": ["Colorless", "Colorless"],
+    "convertedRetreatCost": 2,
+    "number": "14",
+    "artist": "so-taro",
+    "rarity": "Promo",
+    "flavorText": "It flies in the ozone layer, way up high in the sky. Until recently, no one had ever seen it.",
+    "nationalPokedexNumbers": [384],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/mcd24/14.png",
+      "large": "https://images.pokemontcg.io/mcd24/14_hires.png"
+    }
+  },
+  {
+    "id": "mcd24-15",
+    "name": "Drampa",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "hp": "120",
+    "types": ["Colorless"],
+    "attacks": [
+      {
+        "name": "Gentle Slap",
+        "cost": ["Colorless"],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": ""
+      },
+      {
+        "name": "Raging Cannon",
+        "cost": ["Colorless", "Colorless", "Colorless"],
+        "convertedEnergyCost": 3,
+        "damage": "100+",
+        "text": "If all of your Benched Pokémon have at least 1 damage counter on them, this attack does 120 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": ["Colorless", "Colorless"],
+    "convertedRetreatCost": 2,
+    "number": "15",
+    "artist": "Toshinao Aoki",
+    "rarity": "Rare",
+    "flavorText": "The mountains it calls home are nearly two miles in height. On rare occasions, it descends to play with the children living in the towns below.",
+    "nationalPokedexNumbers": [780],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/mcd24/15.png",
+      "large": "https://images.pokemontcg.io/mcd24/15_hires.png"
+    }
+  }
+]
