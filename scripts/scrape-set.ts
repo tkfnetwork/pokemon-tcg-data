@@ -45,7 +45,9 @@ const scrape = async (setId: string) => {
     await writeFile(
       path.resolve(__dirname, "..", "cards", "en", `${setId}.json`),
       JSON.stringify(
-        cards.map(({ tcgplayer: _, cardmarket: __, ...card }) => card),
+        cards.map(
+          ({ tcgplayer: _, cardmarket: __, set: ___, ...card }) => card
+        ),
         undefined,
         2
       )

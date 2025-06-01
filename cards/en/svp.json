@@ -31,25 +31,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "1",
     "artist": "Yuu Nishida",
     "rarity": "Promo",
@@ -103,25 +84,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "2",
     "artist": "Ryuta Fuse",
     "rarity": "Promo",
@@ -178,25 +140,6 @@
         "value": "×2"
       }
     ],
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "6",
     "artist": "GIDORA",
     "rarity": "Promo",
@@ -260,25 +203,6 @@
         "value": "-30"
       }
     ],
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "10",
     "artist": "Sanosuke Sakuma",
     "rarity": "Promo",
@@ -338,25 +262,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "7",
     "artist": "Yuya Oka",
     "rarity": "Promo",
@@ -419,25 +324,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "13",
     "artist": "Akira Komayama",
     "rarity": "Promo",
@@ -506,25 +392,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "8",
     "artist": "DOM",
     "rarity": "Promo",
@@ -588,25 +455,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "9",
     "artist": "Anesaki Dynamic",
     "rarity": "Promo",
@@ -672,25 +520,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 3,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "11",
     "artist": "Ryuta Fuse",
     "rarity": "Promo",
@@ -742,25 +571,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "3",
     "artist": "Narumi Sato",
     "rarity": "Promo",
@@ -822,25 +632,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "5",
     "artist": "kodama",
     "rarity": "Promo",
@@ -906,25 +697,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "4",
     "artist": "PLANETA Yamashita",
     "rarity": "Promo",
@@ -989,25 +761,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "14",
     "artist": "Mina Nakai",
     "rarity": "Promo",
@@ -1075,25 +828,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 4,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "12",
     "artist": "Shin Nagasawa",
     "rarity": "Promo",
@@ -1157,25 +891,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "15",
     "artist": "0313",
     "rarity": "Promo",
@@ -1244,25 +959,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "17",
     "artist": "5ban Graphics",
     "rarity": "Promo",
@@ -1329,25 +1025,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "16",
     "artist": "PLANETA Tsuji",
     "rarity": "Promo",
@@ -1412,25 +1089,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "18",
     "artist": "5ban Graphics",
     "rarity": "Promo",
@@ -1497,25 +1155,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "22",
     "artist": "Nisota Niso",
     "rarity": "Promo",
@@ -1577,25 +1216,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "19",
     "artist": "Oswaldo KATO",
     "rarity": "Promo",
@@ -1656,25 +1276,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "20",
     "artist": "Anesaki Dynamic",
     "rarity": "Promo",
@@ -1743,25 +1344,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "21",
     "artist": "Shiburingaru",
     "rarity": "Promo",
@@ -1822,25 +1404,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "23",
     "artist": "Misa Tsutsui",
     "rarity": "Promo",
@@ -1892,25 +1455,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "25",
     "artist": "Kouki Saitou",
     "rarity": "Promo",
@@ -1966,25 +1510,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "27",
     "artist": "Atsushi Furusawa",
     "rarity": "Promo",
@@ -2049,25 +1574,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "29",
     "artist": "aky CG Works",
     "rarity": "Promo",
@@ -2133,25 +1639,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 3,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "24",
     "artist": "Uta",
     "rarity": "Promo",
@@ -2208,25 +1695,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "26",
     "artist": "Mina Nakai",
     "rarity": "Promo",
@@ -2290,25 +1758,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "28",
     "artist": "5ban Graphics",
     "rarity": "Promo",
@@ -2371,25 +1820,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "30",
     "artist": "aky CG Works",
     "rarity": "Promo",
@@ -2457,25 +1887,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "31",
     "artist": "takuyoa",
     "rarity": "Promo",
@@ -2541,25 +1952,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "32",
     "artist": "PLANETA Hiiragi",
     "rarity": "Promo",
@@ -2621,25 +2013,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "36",
     "artist": "nagimiso",
     "rarity": "Promo",
@@ -2687,25 +2060,6 @@
         "value": "×2"
       }
     ],
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "37",
     "artist": "Mina Nakai",
     "rarity": "Promo",
@@ -2761,25 +2115,6 @@
         "value": "×2"
       }
     ],
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "38",
     "artist": "OKACHEKE",
     "rarity": "Promo",
@@ -2845,25 +2180,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "39",
     "artist": "Souichirou Gunjima",
     "rarity": "Promo",
@@ -2915,25 +2231,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "40",
     "artist": "Ryuta Fuse",
     "rarity": "Promo",
@@ -2998,25 +2295,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "41",
     "artist": "kirisAki",
     "rarity": "Promo",
@@ -3088,25 +2366,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 3,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "42",
     "artist": "Pani Kobayashi",
     "rarity": "Promo",
@@ -3178,25 +2437,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "43",
     "artist": "saino misaki",
     "rarity": "Promo",
@@ -3250,25 +2490,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "44",
     "artist": "MINAMINAMI Take",
     "rarity": "Promo",
@@ -3298,25 +2519,6 @@
       "The Retreat Cost of each Psyduck in play (both yours and your opponent's) is Colorless less.",
       "You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played."
     ],
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "45",
     "artist": "Naoki Saito",
     "rarity": "Promo",
@@ -3377,25 +2579,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "33",
     "artist": "5ban Graphics",
     "rarity": "Promo",
@@ -3462,25 +2645,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 3,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "34",
     "artist": "5ban Graphics",
     "rarity": "Promo",
@@ -3533,25 +2697,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "46",
     "artist": "OKACHEKE",
     "rarity": "Promo",
@@ -3603,25 +2748,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "47",
     "artist": "NC Empire",
     "rarity": "Promo",
@@ -3691,25 +2817,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "52",
     "artist": "Bun Toujo",
     "rarity": "Promo",
@@ -3762,25 +2869,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "48",
     "artist": "Gemi",
     "rarity": "Promo",
@@ -3846,25 +2934,6 @@
         "value": "-30"
       }
     ],
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "53",
     "artist": "Natsumi Yoshida",
     "rarity": "Promo",
@@ -3929,25 +2998,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "54",
     "artist": "takuyoa",
     "rarity": "Promo",
@@ -3999,25 +3049,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "101",
     "artist": "Jiro Sasumo",
     "rarity": "Promo",
@@ -4084,25 +3115,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "35",
     "artist": "5ban Graphics",
     "rarity": "Promo",
@@ -4174,25 +3186,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "50",
     "artist": "Mitsuhiro Arita",
     "rarity": "Promo",
@@ -4258,25 +3251,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "55",
     "artist": "N-DESIGN Inc.",
     "rarity": "Promo",
@@ -4346,25 +3320,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "49",
     "artist": "takuyoa",
     "rarity": "Promo",
@@ -4426,25 +3381,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 4,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "51",
     "artist": "GOSSAN",
     "rarity": "Promo",
@@ -4505,25 +3441,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "57",
     "artist": "Dsuke",
     "rarity": "Promo",
@@ -4579,25 +3496,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "61",
     "artist": "Nobuhiro Imagawa",
     "rarity": "Promo",
@@ -4664,25 +3562,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "59",
     "artist": "GOSSAN",
     "rarity": "Promo",
@@ -4742,25 +3621,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "62",
     "artist": "kurumitsu",
     "rarity": "Promo",
@@ -4827,25 +3687,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "56",
     "artist": "takuyoa",
     "rarity": "Promo",
@@ -4905,25 +3746,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "58",
     "artist": "Lee HyunJung",
     "rarity": "Promo",
@@ -4991,25 +3813,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 3,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "60",
     "artist": "Takeshi Nakamura",
     "rarity": "Promo",
@@ -5075,25 +3878,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 4,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "63",
     "artist": "GOSSAN",
     "rarity": "Promo",
@@ -5151,25 +3935,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "70",
     "artist": "Nisota Niso",
     "rarity": "Promo",
@@ -5236,25 +4001,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "65",
     "artist": "GIDORA",
     "rarity": "Promo",
@@ -5313,25 +4059,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "75",
     "artist": "Mitsuhiro Arita",
     "rarity": "Promo",
@@ -5400,25 +4127,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "67",
     "artist": "takuyoa",
     "rarity": "Promo",
@@ -5482,25 +4190,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "64",
     "artist": "Teeziro",
     "rarity": "Promo",
@@ -5566,25 +4255,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "68",
     "artist": "aky CG Works",
     "rarity": "Promo",
@@ -5644,25 +4314,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "66",
     "artist": "Teeziro",
     "rarity": "Promo",
@@ -5714,25 +4365,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "69",
     "artist": "sowsow",
     "rarity": "Promo",
@@ -5782,25 +4414,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "71",
     "artist": "Kagemaru Himeno",
     "rarity": "Promo",
@@ -5849,25 +4462,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "85",
     "artist": "Naoyo Kimura",
     "rarity": "Promo",
@@ -5928,25 +4522,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "102",
     "artist": "Miranda Branley",
     "rarity": "Promo",
@@ -6006,25 +4581,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "76",
     "artist": "kurumitsu",
     "rarity": "Promo",
@@ -6086,25 +4642,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "77",
     "artist": "GIDORA",
     "rarity": "Promo",
@@ -6169,25 +4706,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "78",
     "artist": "5ban Graphics",
     "rarity": "Promo",
@@ -6238,25 +4756,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "79",
     "artist": "OKACHEKE",
     "rarity": "Promo",
@@ -6320,25 +4819,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 3,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "80",
     "artist": "Hideki Ishikawa",
     "rarity": "Promo",
@@ -6406,25 +4886,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 3,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "81",
     "artist": "5ban Graphics",
     "rarity": "Promo",
@@ -6474,25 +4935,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "82",
     "artist": "GIDORA",
     "rarity": "Promo",
@@ -6554,25 +4996,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "83",
     "artist": "Atsushi Furusawa",
     "rarity": "Promo",
@@ -6639,25 +5062,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "84",
     "artist": "5ban Graphics",
     "rarity": "Promo",
@@ -6726,25 +5130,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 3,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "86",
     "artist": "PLANETA Mochizuki",
     "rarity": "Promo",
@@ -6809,25 +5194,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "87",
     "artist": "takuyoa",
     "rarity": "Promo",
@@ -6887,25 +5253,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "88",
     "artist": "saino misaki",
     "rarity": "Promo",
@@ -6967,25 +5314,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 3,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "89",
     "artist": "Kurata So",
     "rarity": "Promo",
@@ -7053,25 +5381,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "90",
     "artist": "Uta",
     "rarity": "Promo",
@@ -7130,25 +5439,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "91",
     "artist": "Anesaki Dynamic",
     "rarity": "Promo",
@@ -7206,25 +5496,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "92",
     "artist": "akagi",
     "rarity": "Promo",
@@ -7286,25 +5557,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "96",
     "artist": "Hasuno",
     "rarity": "Promo",
@@ -7356,25 +5608,6 @@
       }
     ],
     "convertedRetreatCost": 0,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "95",
     "artist": "Tika Matsuno",
     "rarity": "Promo",
@@ -7428,25 +5661,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "93",
     "artist": "Tonji Matsuno",
     "rarity": "Promo",
@@ -7511,25 +5725,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 3,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "94",
     "artist": "Mizue",
     "rarity": "Promo",
@@ -7590,25 +5785,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "97",
     "artist": "Takumi Wada",
     "rarity": "Promo",
@@ -7675,25 +5851,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 3,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "98",
     "artist": "Tonji Matsuno",
     "rarity": "Promo",
@@ -7723,25 +5880,6 @@
       "Each player shuffles their hand and puts it on the bottom of their deck. If either player put any cards on the bottom of their deck in this way, each player draws a card for each of their remaining Prize cards.",
       "You may play only 1 Supporter card during your turn."
     ],
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "124",
     "artist": "yuu",
     "rarity": "Promo",
@@ -7806,25 +5944,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 4,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "72",
     "artist": "5ban Graphics",
     "rarity": "Promo",
@@ -7889,25 +6008,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 3,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "73",
     "artist": "5ban Graphics",
     "rarity": "Promo",
@@ -7973,25 +6073,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "74",
     "artist": "5ban Graphics",
     "rarity": "Promo",
@@ -8051,25 +6132,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "99",
     "artist": "Hitoshi Ariga",
     "rarity": "Promo",
@@ -8136,25 +6198,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "100",
     "artist": "aky CG Works",
     "rarity": "Promo",
@@ -8222,25 +6265,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "103",
     "artist": "PLANETA Tsuji",
     "rarity": "Promo",
@@ -8316,25 +6340,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 4,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "104",
     "artist": "PLANETA Igarashi",
     "rarity": "Promo",
@@ -8392,25 +6397,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "105",
     "artist": "PLANETA Tsuji",
     "rarity": "Promo",
@@ -8469,25 +6455,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "106",
     "artist": "takuyoa",
     "rarity": "Promo",
@@ -8550,25 +6517,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "107",
     "artist": "Orca",
     "rarity": "Promo",
@@ -8633,25 +6581,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "108",
     "artist": "Akira Komayama",
     "rarity": "Promo",
@@ -8704,25 +6633,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "109",
     "artist": "GIDORA",
     "rarity": "Promo",
@@ -8789,25 +6699,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "110",
     "artist": "5ban Graphics",
     "rarity": "Promo",
@@ -8860,25 +6751,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "111",
     "artist": "matazo",
     "rarity": "Promo",
@@ -8929,25 +6801,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "112",
     "artist": "AKIRA EGAWA",
     "rarity": "Promo",
@@ -9009,25 +6862,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "113",
     "artist": "nagimiso",
     "rarity": "Promo",
@@ -9056,25 +6890,6 @@
       "Flip a coin. If heads, draw 4 cards. If tails, draw 2 cards.",
       "You may play only 1 Supporter card during your turn."
     ],
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "114",
     "artist": "Susumu Maeya",
     "rarity": "Promo",
@@ -9134,25 +6949,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "115",
     "artist": "Uninori",
     "rarity": "Promo",
@@ -9213,25 +7009,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "116",
     "artist": "Kazumasa Yasukuni",
     "rarity": "Promo",
@@ -9291,25 +7068,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "117",
     "artist": "mingo",
     "rarity": "Promo",
@@ -9362,25 +7120,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "118",
     "artist": "Shimaris Yukichi",
     "rarity": "Promo",
@@ -9434,25 +7173,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "119",
     "artist": "Natsumi Yoshida",
     "rarity": "Promo",
@@ -9517,25 +7237,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "120",
     "artist": "Shiburingaru",
     "rarity": "Promo",
@@ -9606,25 +7307,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 3,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "121",
     "artist": "Nisota Niso",
     "rarity": "Promo",
@@ -9680,25 +7362,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 3,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "122",
     "artist": "Po-Suzuki",
     "rarity": "Promo",
@@ -9759,25 +7422,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "123",
     "artist": "kodama",
     "rarity": "Promo",
@@ -9842,25 +7486,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "125",
     "artist": "5ban Graphics",
     "rarity": "Promo",
@@ -9923,25 +7548,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "126",
     "artist": "PLANETA Mochizuki",
     "rarity": "Promo",
@@ -10005,25 +7611,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "127",
     "artist": "takuyoa",
     "rarity": "Promo",
@@ -10087,25 +7674,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "128",
     "artist": "5ban Graphics",
     "rarity": "Promo",
@@ -10165,25 +7733,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "148",
     "artist": "hncl",
     "rarity": "Promo",
@@ -10254,25 +7803,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 4,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "130",
     "artist": "Oku",
     "rarity": "Promo",
@@ -10338,25 +7868,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "131",
     "artist": "akagi",
     "rarity": "Promo",
@@ -10421,25 +7932,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "132",
     "artist": "SIE NANAHARA",
     "rarity": "Promo",
@@ -10497,25 +7989,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "129",
     "artist": "nagimiso",
     "rarity": "Promo",
@@ -10574,25 +8047,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "135",
     "artist": "Keisin",
     "rarity": "Promo",
@@ -10657,25 +8111,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 3,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "134",
     "artist": "KEIICHIRO ITO",
     "rarity": "Promo",
@@ -10736,25 +8171,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "136",
     "artist": "Tonji Matsuno",
     "rarity": "Promo",
@@ -10810,25 +8226,6 @@
         "value": "×2"
       }
     ],
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "133",
     "artist": "Natsumi Yoshida",
     "rarity": "Promo",
@@ -10882,25 +8279,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "137",
     "artist": "MAHOU",
     "rarity": "Promo",
@@ -10967,25 +8345,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "139",
     "artist": "hncl",
     "rarity": "Promo",
@@ -11051,25 +8410,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "142",
     "artist": "Saki Hayashiro",
     "rarity": "Promo",
@@ -11132,25 +8472,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "140",
     "artist": "DOM",
     "rarity": "Promo",
@@ -11205,25 +8526,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "138",
     "artist": "GOSSAN",
     "rarity": "Promo",
@@ -11289,25 +8591,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "141",
     "artist": "Tetsu Kayama",
     "rarity": "Promo",
@@ -11369,25 +8652,6 @@
         "value": "×2"
       }
     ],
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "143",
     "artist": "5ban Graphics",
     "rarity": "Promo",
@@ -11455,25 +8719,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "144",
     "artist": "PLANETA Mochizuki",
     "rarity": "Promo",
@@ -11531,25 +8776,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 3,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "145",
     "artist": "PLANETA Mochizuki",
     "rarity": "Promo",
@@ -11617,25 +8843,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "146",
     "artist": "5ban Graphics",
     "rarity": "Promo",
@@ -11701,25 +8908,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 3,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "147",
     "artist": "5ban Graphics",
     "rarity": "Promo",
@@ -11774,25 +8962,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "149",
     "artist": "Souichirou Gunjima",
     "rarity": "Promo",
@@ -11819,25 +8988,6 @@
       "The Retreat Cost of each Psyduck in play (both yours and your opponent's) is Colorless less.",
       "You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played."
     ],
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "150",
     "artist": "Naoki Saito",
     "rarity": "Promo",
@@ -11897,25 +9047,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "151",
     "rarity": "Promo",
     "legalities": {
@@ -11970,25 +9101,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "152",
     "rarity": "Promo",
     "nationalPokedexNumbers": [
@@ -12049,25 +9161,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "153",
     "rarity": "Promo",
     "nationalPokedexNumbers": [
@@ -12130,25 +9223,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "154",
     "rarity": "Promo",
     "nationalPokedexNumbers": [
@@ -12209,25 +9283,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "155",
     "rarity": "Promo",
     "nationalPokedexNumbers": [
@@ -12290,25 +9345,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 3,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "156",
     "rarity": "Promo",
     "nationalPokedexNumbers": [
@@ -12375,25 +9411,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "157",
     "rarity": "Promo",
     "nationalPokedexNumbers": [
@@ -12452,25 +9469,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "158",
     "rarity": "Promo",
     "nationalPokedexNumbers": [
@@ -12531,25 +9529,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "159",
     "rarity": "Promo",
     "nationalPokedexNumbers": [
@@ -12615,25 +9594,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "160",
     "rarity": "Promo",
     "nationalPokedexNumbers": [
@@ -12700,25 +9660,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "161",
     "rarity": "Promo",
     "nationalPokedexNumbers": [
@@ -12782,25 +9723,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 3,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "162",
     "rarity": "Promo",
     "nationalPokedexNumbers": [
@@ -12865,25 +9787,6 @@
         "value": "×2"
       }
     ],
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "163",
     "rarity": "Promo",
     "nationalPokedexNumbers": [
@@ -12950,25 +9853,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "164",
     "rarity": "Promo",
     "nationalPokedexNumbers": [
@@ -13036,25 +9920,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Black Star Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 215,
-      "total": 196,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "ptcgoCode": "PR-SV",
-      "releaseDate": "2023/01/01",
-      "updatedAt": "2024/11/09 13:20:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "165",
     "rarity": "Promo",
     "nationalPokedexNumbers": [
@@ -13118,24 +9983,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 150,
-      "total": 148,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "releaseDate": "2022/11/01",
-      "updatedAt": "2023/07/20 22:45:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "166",
     "artist": "5ban Graphics",
     "rarity": "Promo",
@@ -13198,24 +10045,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 150,
-      "total": 148,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "releaseDate": "2022/11/01",
-      "updatedAt": "2023/07/20 22:45:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "167",
     "artist": "SIE NANAHARA",
     "rarity": "Promo",
@@ -13279,24 +10108,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 150,
-      "total": 148,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "releaseDate": "2022/11/01",
-      "updatedAt": "2023/07/20 22:45:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "168",
     "artist": "Taira Akitsu",
     "rarity": "Promo",
@@ -13355,24 +10166,6 @@
         "value": "×2"
       }
     ],
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 150,
-      "total": 148,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "releaseDate": "2022/11/01",
-      "updatedAt": "2023/07/20 22:45:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "169",
     "artist": "Nisota Niso",
     "rarity": "Promo",
@@ -13434,24 +10227,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 150,
-      "total": 148,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "releaseDate": "2022/11/01",
-      "updatedAt": "2023/07/20 22:45:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "170",
     "artist": "Iori Suzuki",
     "rarity": "Promo",
@@ -13513,24 +10288,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 150,
-      "total": 148,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "releaseDate": "2022/11/01",
-      "updatedAt": "2023/07/20 22:45:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "171",
     "artist": "Keisin",
     "rarity": "Promo",
@@ -13593,24 +10350,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 150,
-      "total": 148,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "releaseDate": "2022/11/01",
-      "updatedAt": "2023/07/20 22:45:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "172",
     "artist": "Susumu Maeya",
     "rarity": "Promo",
@@ -13679,24 +10418,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 150,
-      "total": 148,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "releaseDate": "2022/11/01",
-      "updatedAt": "2023/07/20 22:45:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "173",
     "artist": "Makura Tami",
     "rarity": "Promo",
@@ -13772,24 +10493,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 150,
-      "total": 148,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "releaseDate": "2022/11/01",
-      "updatedAt": "2023/07/20 22:45:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "174",
     "artist": "Natsuko Shoji été",
     "rarity": "Promo",
@@ -13856,24 +10559,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 3,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 150,
-      "total": 148,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "releaseDate": "2022/11/01",
-      "updatedAt": "2023/07/20 22:45:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "177",
     "artist": "aky CG Works",
     "rarity": "Promo",
@@ -13943,24 +10628,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 3,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 150,
-      "total": 148,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "releaseDate": "2022/11/01",
-      "updatedAt": "2023/07/20 22:45:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "178",
     "artist": "takuyoa",
     "rarity": "Promo",
@@ -14026,24 +10693,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 150,
-      "total": 148,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "releaseDate": "2022/11/01",
-      "updatedAt": "2023/07/20 22:45:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "179",
     "artist": "PLANETA Igarashi",
     "rarity": "Promo",
@@ -14115,24 +10764,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 150,
-      "total": 148,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "releaseDate": "2022/11/01",
-      "updatedAt": "2023/07/20 22:45:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "180",
     "artist": "PLANETA Tsuji",
     "rarity": "Promo",
@@ -14197,24 +10828,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 3,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 150,
-      "total": 148,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "releaseDate": "2022/11/01",
-      "updatedAt": "2023/07/20 22:45:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "181",
     "artist": "Takeshi Nakamura",
     "rarity": "Promo",
@@ -14281,24 +10894,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 150,
-      "total": 148,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "releaseDate": "2022/11/01",
-      "updatedAt": "2023/07/20 22:45:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "182",
     "artist": "DOM",
     "rarity": "Promo",
@@ -14353,24 +10948,6 @@
         "value": "×2"
       }
     ],
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 150,
-      "total": 148,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "releaseDate": "2022/11/01",
-      "updatedAt": "2023/07/20 22:45:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "183",
     "artist": "tono",
     "rarity": "Promo",
@@ -14433,24 +11010,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 4,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 150,
-      "total": 148,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "releaseDate": "2022/11/01",
-      "updatedAt": "2023/07/20 22:45:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "184",
     "artist": "OKACHEKE",
     "rarity": "Promo",
@@ -14511,24 +11070,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 150,
-      "total": 148,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "releaseDate": "2022/11/01",
-      "updatedAt": "2023/07/20 22:45:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "185",
     "artist": "Dsuke",
     "rarity": "Promo",
@@ -14582,24 +11123,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 150,
-      "total": 148,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "releaseDate": "2022/11/01",
-      "updatedAt": "2023/07/20 22:45:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "186",
     "artist": "OKUBO",
     "rarity": "Promo",
@@ -14659,24 +11182,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 150,
-      "total": 148,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "releaseDate": "2022/11/01",
-      "updatedAt": "2023/07/20 22:45:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "187",
     "artist": "Dsuke",
     "rarity": "Promo",
@@ -14739,24 +11244,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 150,
-      "total": 148,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "releaseDate": "2022/11/01",
-      "updatedAt": "2023/07/20 22:45:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "188",
     "artist": "OKUBO",
     "rarity": "Promo",
@@ -14810,24 +11297,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 150,
-      "total": 148,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "releaseDate": "2022/11/01",
-      "updatedAt": "2023/07/20 22:45:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "189",
     "artist": "Megumi Mizutani",
     "rarity": "Promo",
@@ -14901,24 +11370,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 150,
-      "total": 148,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "releaseDate": "2022/11/01",
-      "updatedAt": "2023/07/20 22:45:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "193",
     "artist": "PLANETA Mochizuki",
     "rarity": "Promo",
@@ -14984,24 +11435,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 150,
-      "total": 148,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "releaseDate": "2022/11/01",
-      "updatedAt": "2023/07/20 22:45:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "194",
     "artist": "PLANETA Mochizuki",
     "rarity": "Promo",
@@ -15066,24 +11499,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 150,
-      "total": 148,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "releaseDate": "2022/11/01",
-      "updatedAt": "2023/07/20 22:45:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "195",
     "artist": "PLANETA Tsuji",
     "rarity": "Promo",
@@ -15149,24 +11564,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 150,
-      "total": 148,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "releaseDate": "2022/11/01",
-      "updatedAt": "2023/07/20 22:45:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "196",
     "artist": "5ban Graphics",
     "rarity": "Promo",
@@ -15233,24 +11630,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 150,
-      "total": 148,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "releaseDate": "2022/11/01",
-      "updatedAt": "2023/07/20 22:45:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "197",
     "artist": "PLANETA Tsuji",
     "rarity": "Promo",
@@ -15322,24 +11701,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 150,
-      "total": 148,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "releaseDate": "2022/11/01",
-      "updatedAt": "2023/07/20 22:45:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "198",
     "artist": "PLANETA Mochizuki",
     "rarity": "Promo",
@@ -15401,24 +11762,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 150,
-      "total": 148,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "releaseDate": "2022/11/01",
-      "updatedAt": "2023/07/20 22:45:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "199",
     "artist": "Uninori",
     "rarity": "Promo",
@@ -15489,24 +11832,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 150,
-      "total": 148,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "releaseDate": "2022/11/01",
-      "updatedAt": "2023/07/20 22:45:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "200",
     "artist": "Kariya",
     "rarity": "Promo",
@@ -15568,24 +11893,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 150,
-      "total": 148,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "releaseDate": "2022/11/01",
-      "updatedAt": "2023/07/20 22:45:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "201",
     "artist": "Krgc",
     "rarity": "Promo",
@@ -15648,24 +11955,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 150,
-      "total": 148,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "releaseDate": "2022/11/01",
-      "updatedAt": "2023/07/20 22:45:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "202",
     "artist": "Uta",
     "rarity": "Promo",
@@ -15735,24 +12024,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 2,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 150,
-      "total": 148,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "releaseDate": "2022/11/01",
-      "updatedAt": "2023/07/20 22:45:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "203",
     "artist": "Saboteri",
     "rarity": "Promo",
@@ -15801,24 +12072,6 @@
         "value": "×2"
       }
     ],
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 150,
-      "total": 148,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "releaseDate": "2022/11/01",
-      "updatedAt": "2023/07/20 22:45:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "206",
     "artist": "Susumu Maeya",
     "rarity": "Promo",
@@ -15879,24 +12132,6 @@
       "Colorless"
     ],
     "convertedRetreatCost": 1,
-    "set": {
-      "id": "svp",
-      "name": "Scarlet & Violet Promos",
-      "series": "Scarlet & Violet",
-      "printedTotal": 150,
-      "total": 148,
-      "legalities": {
-        "unlimited": "Legal",
-        "standard": "Legal",
-        "expanded": "Legal"
-      },
-      "releaseDate": "2022/11/01",
-      "updatedAt": "2023/07/20 22:45:00",
-      "images": {
-        "symbol": "https://images.pokemontcg.io/svp/symbol.png",
-        "logo": "https://images.pokemontcg.io/svp/logo.png"
-      }
-    },
     "number": "207",
     "artist": "hncl",
     "rarity": "Promo",
