@@ -26,6 +26,15 @@ const scrape = async (setId: string) => {
   let pages = 1;
   const cards: any[] = [];
 
+  const setsPath = path.resolve(__dirname, "..", "sets", "en.json");
+
+  const sets = await import(setsPath).then(({ default: data }) => data);
+  const { data: setData } = await get(["/sets", setId].join("/"));
+
+  const nextSets = [...sets.filter(({ id }) => id !== setId), setData];
+
+  await writeFile(setsPath, JSON.stringify(nextSets, undefined, 2));
+
   while (page < pages) {
     const iteration = page || 1;
     const data = (await get(
