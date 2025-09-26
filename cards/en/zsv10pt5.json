@@ -1,71 +1,5 @@
 [
   {
-    "id": "zsv10pt5-172",
-    "name": "Zekrom ex",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Basic",
-      "ex"
-    ],
-    "hp": "230",
-    "types": [
-      "Lightning"
-    ],
-    "rules": [
-      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
-    ],
-    "attacks": [
-      {
-        "name": "Slash",
-        "cost": [
-          "Colorless",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 2,
-        "damage": "50",
-        "text": ""
-      },
-      {
-        "name": "Voltage Burst",
-        "cost": [
-          "Lightning",
-          "Lightning",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 3,
-        "damage": "130+",
-        "text": "This attack does 50 more damage for each Prize card your opponent has taken. This Pokémon also does 30 damage to itself."
-      }
-    ],
-    "weaknesses": [
-      {
-        "type": "Fighting",
-        "value": "×2"
-      }
-    ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
-    "convertedRetreatCost": 2,
-    "number": "172",
-    "artist": "takuyoa",
-    "rarity": "Black White Rare",
-    "nationalPokedexNumbers": [
-      644
-    ],
-    "legalities": {
-      "unlimited": "Legal",
-      "standard": "Legal",
-      "expanded": "Legal"
-    },
-    "regulationMark": "I",
-    "images": {
-      "small": "https://images.pokemontcg.io/zsv10pt5/172.png",
-      "large": "https://images.pokemontcg.io/zsv10pt5/172_hires.png"
-    }
-  },
-  {
     "id": "zsv10pt5-1",
     "name": "Snivy",
     "supertype": "Pokémon",
@@ -10191,6 +10125,72 @@
     "images": {
       "small": "https://images.pokemontcg.io/zsv10pt5/171.png",
       "large": "https://images.pokemontcg.io/zsv10pt5/171_hires.png"
+    }
+  },
+  {
+    "id": "zsv10pt5-172",
+    "name": "Zekrom ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "ex"
+    ],
+    "hp": "230",
+    "types": [
+      "Lightning"
+    ],
+    "rules": [
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Slash",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "50",
+        "text": ""
+      },
+      {
+        "name": "Voltage Burst",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "130+",
+        "text": "This attack does 50 more damage for each Prize card your opponent has taken. This Pokémon also does 30 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "172",
+    "artist": "takuyoa",
+    "rarity": "Black White Rare",
+    "nationalPokedexNumbers": [
+      644
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "I",
+    "images": {
+      "small": "https://images.pokemontcg.io/zsv10pt5/172.png",
+      "large": "https://images.pokemontcg.io/zsv10pt5/172_hires.png"
     }
   }
 ]

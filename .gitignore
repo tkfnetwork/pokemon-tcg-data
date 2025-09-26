@@ -1,3 +1,4 @@
 cards/en/v1/
 .env
 node_modules
+.idea/
