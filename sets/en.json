@@ -3034,5 +3034,118 @@
       "symbol": "https://images.pokemontcg.io/me2/symbol.png",
       "logo": "https://images.pokemontcg.io/me2/logo.png"
     }
+  },
+  {
+    "id": "me2pt5",
+    "name": "Ascended Heroes",
+    "series": "Mega Evolution",
+    "printedTotal": 217,
+    "total": 295,
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "ptcgoCode": "ASC",
+    "releaseDate": "2026/01/30",
+    "updatedAt": "2026/01/30 15:00:00",
+    "images": {
+      "symbol": "https://images.scrydex.com/pokemon/me2pt5-symbol/symbol",
+      "logo": "https://images.scrydex.com/pokemon/me2pt5-logo/logo"
+    }
+  },
+  {
+    "id": "me3",
+    "name": "Perfect Order",
+    "series": "Mega Evolution",
+    "printedTotal": 88,
+    "total": 124,
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "ptcgoCode": "POR",
+    "releaseDate": "2026/03/27",
+    "updatedAt": "2026/03/26 15:00:00",
+    "images": {
+      "symbol": "https://images.scrydex.com/pokemon/me3-symbol/symbol",
+      "logo": "https://images.scrydex.com/pokemon/me3-logo/logo"
+    }
+  },
+  {
+    "id": "me4",
+    "name": "Chaos Rising",
+    "series": "Mega Evolution",
+    "printedTotal": 86,
+    "total": 122,
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "ptcgoCode": "CRI",
+    "releaseDate": "2026/05/22",
+    "updatedAt": "2026/05/21 15:00:00",
+    "images": {
+      "symbol": "https://images.scrydex.com/pokemon/me4-symbol/symbol",
+      "logo": "https://images.scrydex.com/pokemon/me4-logo/logo"
+    }
+  },
+  {
+    "id": "me5",
+    "name": "Pitch Black",
+    "series": "Mega Evolution",
+    "printedTotal": 84,
+    "total": 120,
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "ptcgoCode": "PBL",
+    "releaseDate": "2026/07/17",
+    "updatedAt": "2026/07/16 15:00:00",
+    "images": {
+      "symbol": "https://images.scrydex.com/pokemon/me5-symbol/symbol",
+      "logo": "https://images.scrydex.com/pokemon/me5-logo/logo"
+    }
+  },
+  {
+    "id": "me55",
+    "name": "30th Celebration",
+    "series": "Mega Evolution",
+    "printedTotal": 128,
+    "total": 161,
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "ptcgoCode": "30C",
+    "releaseDate": "2026/09/16",
+    "updatedAt": "2026/09/14 15:00:00",
+    "images": {
+      "symbol": "https://images.scrydex.com/pokemon/me55-symbol/symbol",
+      "logo": "https://images.scrydex.com/pokemon/me55-logo/logo"
+    }
+  },
+  {
+    "id": "me55c",
+    "name": "30th Celebration: Classic Collection",
+    "series": "Mega Evolution",
+    "total": 30,
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "ptcgoCode": "30C",
+    "releaseDate": "2026/09/16",
+    "updatedAt": "2026/09/14 15:00:00",
+    "images": {
+      "symbol": "https://images.scrydex.com/pokemon/me55c-symbol/symbol",
+      "logo": "https://images.scrydex.com/pokemon/me55c-logo/logo"
+    }
   }
 ]
